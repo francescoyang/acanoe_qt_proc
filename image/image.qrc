@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/home/image">
+        <file>desk_top.png</file>
+        <file>blue.png</file>
+        <file>wifi.png</file>
+        <file>video.png</file>
+        <file>web.png</file>
+        <file>game.png</file>
+        <file>exit.png</file>
+        <file>9.png</file>
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>login.png</file>
+        <file>empty.png</file>
+        <file>ubuntu_login.png</file>
+        <file>ubuntu_wellcome.png</file>
+        <file>up.png</file>
+        <file>return.png</file>
+        <file>sreach_blue.png</file>
+        <file>recv_file.png</file>
+        <file>send_file.png</file>
+        <file>flag_blue.png</file>
+        <file>wifi_flag.png</file>
+        <file>video_list.png</file>
+        <file>open_video.png</file>
+        <file>open_wifi.png</file>
+        <file>sreach_wifi.png</file>
+    </qresource>
+</RCC>
